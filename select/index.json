@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "ジャングルジム",
+  "base_artist": "BUMP OF CHICKEN",
+  "createdAt": "2026-03-01T15:12:11.335732Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Junglegym [ジャングルジム]",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/01_Junglegym_[ジャングルジム]_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ジャングルジム",
+      "artist": "山本彩",
+      "has_synced": true,
+      "path": "select/02_ジャングルジム_山本彩.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ジャングルジム",
+      "artist": "Mayumi Itsuwa",
+      "has_synced": false,
+      "path": "select/03_ジャングルジム_Mayumi_Itsuwa.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ジャングルジム [L'ecrivain]",
+      "artist": "五輪真弓",
+      "has_synced": true,
+      "path": "select/04_ジャングルジム_[L'ecrivain]_五輪真弓.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ジャングルジム",
+      "artist": "五輪 真弓",
+      "has_synced": false,
+      "path": "select/05_ジャングルジム_五輪_真弓.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ジャングルジム",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/06_ジャングルジム_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ジャングルジム",
+      "artist": "五輪真弓",
+      "has_synced": false,
+      "path": "select/07_ジャングルジム_五輪真弓.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ジャングルジム(山本彩)",
+      "artist": "NMB48",
+      "has_synced": true,
+      "path": "select/08_ジャングルジム(山本彩)_NMB48.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ジャングルジム",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": false,
+      "path": "select/pl_01_ジャングルジム_BUMP_OF_CHICKEN.txt"
+    }
+  ]
+}
